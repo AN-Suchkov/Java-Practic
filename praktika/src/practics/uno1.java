@@ -10,7 +10,7 @@ public class uno1 {
         System.out.println("\nenter array:");
         int[] b = new int[n];
         int s = 0;
-        float average = 0.0f;
+        float average;
         for (int i = 0; i < n; i++) {
             b[i] = in.nextInt();
 //            System.out.printf("%d \t", b[i]);
