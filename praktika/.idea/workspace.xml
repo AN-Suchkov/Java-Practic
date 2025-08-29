@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1df6a1f9-2b5b-4b66-a8ea-ea6ebe9587d1" name="Changes" comment="start">
+      <change beforePath="$PROJECT_DIR$/src/practics/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practics_12/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practics/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practics_12/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practics/BookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practics_12/BookTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practics/Bookshelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practics_12/Bookshelf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practics/TestAuthor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practics_12/TestAuthor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practics/uno1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practics_12/uno1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practics/uno2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practics_12/uno2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ulyanovsk-Suchkov&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Ulyanovsk-Suchkov/Java-Practic.git&quot;,
+    &quot;accountId&quot;: &quot;4ac3ed6c-bfd4-4597-ac5b-5f1e5f310e63&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2lsqJaf15cKmY2OQwEO7kWaXCYW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Address.executor": "Run",
+    "Application.BookTest.executor": "Run",
+    "Application.BorderLayoutMouseEvent.executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.CalculatorGUI.executor": "Run",
+    "Application.Client.executor": "Run",
+    "Application.Convertable_Tester.executor": "Run",
+    "Application.CountryInfoApp.executor": "Run",
+    "Application.CountryInfoApp2.executor": "Run",
+    "Application.CustomCalculator.executor": "Run",
+    "Application.DateAndCalendarExample.executor": "Run",
+    "Application.DeveloperInfo.executor": "Run",
+    "Application.GuessNumberGame.executor": "Run",
+    "Application.ImageDisplayApp.executor": "Run",
+    "Application.ListPerformanceComparison.executor": "Run",
+    "Application.MatchScoreApp.executor": "Run",
+    "Application.MatrixTester.executor": "Run",
+    "Application.Movable_Tester.executor": "Run",
+    "Application.OddNum.executor": "Run",
+    "Application.OnlinePurchase.executor": "Run",
+    "Application.PalindromeCheckerTester.executor": "Run",
+    "Application.Person.executor": "Run",
+    "Application.PhoneNumberTest.executor": "Run",
+    "Application.PrimeCheckTester.executor": "Run",
+    "Application.PrimeFactorizationTester.executor": "Run",
+    "Application.QueueTest.executor": "Run",
+    "Application.QueueTest1.executor": "Run",
+    "Application.RPNCalculatorTester.executor": "Run",
+    "Application.RandomShapes.executor": "Run",
+    "Application.RandomShapesTester.executor": "Run",
+    "Application.ScoreApp.executor": "Run",
+    "Application.ShapeTester.executor": "Run",
+    "Application.SpriteAnimation.executor": "Run",
+    "Application.StringTasks.executor": "Run",
+    "Application.SumOfDigits_Tester.executor": "Run",
+    "Application.TemperatureConverter.executor": "Run",
+    "Application.TestAuthor.executor": "Run",
+    "Application.Tester.executor": "Run",
+    "Application.Tester2.executor": "Run",
+    "Application.TesterAll17.executor": "Run",
+    "Application.TextEditor.executor": "Run",
+    "Application.WordChain.executor": "Run",
+    "Application.obol.executor": "Run",
+    "Application.random_array.executor": "Run",
+    "Application.scoreTester.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/Java projects/praktika/src",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java projects\praktika\src" />
+      <recent name="E:\Java projects\praktika\src\pr13" />
+      <recent name="E:\Java projects\praktika\src\pr7" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Java projects\praktika\src" />
+      <recent name="E:\Java projects\praktika\src\pr12" />
+      <recent name="E:\Java projects\praktika\src\pr5" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ImageDisplayApp" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pr5.ImageDisplayApp" />
+      <module name="praktika" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\Alexs\Downloads\4tyymb.jpg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pr5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1df6a1f9-2b5b-4b66-a8ea-ea6ebe9587d1" name="Changes" comment="" />
+      <created>1725979066748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725979066748</updated>
+    </task>
+    <task id="LOCAL-00001" summary="start">
+      <option name="closed" value="true" />
+      <created>1726087904206</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726087904206</updated>
+    </task>
+    <task id="LOCAL-00002" summary="start">
+      <option name="closed" value="true" />
+      <created>1726088802960</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726088802960</updated>
+    </task>
+    <task id="LOCAL-00003" summary="start">
+      <option name="closed" value="true" />
+      <created>1726508870751</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726508870751</updated>
+    </task>
+    <task id="LOCAL-00004" summary="start">
+      <option name="closed" value="true" />
+      <created>1727118458264</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727118458264</updated>
+    </task>
+    <task id="LOCAL-00005" summary="start">
+      <option name="closed" value="true" />
+      <created>1727120109579</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727120109579</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="start" />
+    <option name="LAST_COMMIT_MESSAGE" value="start" />
+  </component>
+</project>
